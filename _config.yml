@@ -19,7 +19,8 @@ keywords:    "coala, review, analysis, static, bears"
 description: "coala provides a common command-line interface for linting and fixing all your code, regardless of the programming languages you use."
 source_link: "https://github.com/coala-analyzer/coala/"
 favicon:     "https://raw.githubusercontent.com/coala-analyzer/coala-artwork/master/artwork/coala_bear.png"
-
+logo:        "https://rawgit.com/coala/artwork/master/artwork/logo/coala_color.svg"
+url:         "https://coala.io/"
 
 ### template colors, used site-wide via css ###
 colors:

@@ -355,3 +355,9 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+/*coala logo height and width */
+.coala-logo {
+  height: 150px;
+  width: 150px;
+}
